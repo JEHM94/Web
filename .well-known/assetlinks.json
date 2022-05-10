@@ -1,10 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.jehm.wowrandomapp",
-    "sha256_cert_fingerprints": [
-      "05:E1:00:17:8E:A4:F2:8C:AD:73:2B:73:30:31:17:E6:E4:55:23:1C:26:56:F7:DB:B1:93:8C:F5:AD:AA:3B:EC"
-    ]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.jehm.wowrandomapp",
+               "sha256_cert_fingerprints": ["17:78:70:35:AD:6E:1B:05:F2:AB:C0:9E:EF:71:3D:DF:B3:83:2F:FB:E2:AA:FC:FF:25:88:51:55:3E:C4:39:FE"] }
 }]
